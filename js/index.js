@@ -43,13 +43,6 @@ function closeSideNav() {
 }
 
 closeSideNav()
-// $(".side-nav-menu i.open-close-icon").click(() => {
-//     if ($(".side-nav-menu").css("left") == "0px") {
-//         closeSideNav()
-//     } else {
-//         openSideNav()
-//     }
-// })
 
 function openCloseFun(){
     if ($(".side-nav-menu").css("left") == "0px") {
